@@ -23,7 +23,7 @@ Replit's 100 days of Python
  - [x] Day [20](https://github.com/anndcodes/100days-python/tree/day20-100)/100
  - [x] Day [21](https://github.com/anndcodes/100days-python/tree/day21-100)/100
  - [x] Day [22](https://github.com/anndcodes/100days-python/tree/day22-100)/100
- - [ ] Day 23/100
+ - [x] Day [23](https://github.com/anndcodes/100days-python/tree/day23-100)/100
  - [ ] Day 24/100
  - [ ] Day 25/100
  - [ ] Day 26/100
